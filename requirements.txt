@@ -1,0 +1,9 @@
+pip
+streamlit
+sklearn
+tensorflow
+opencv-python
+numpy
+matplotlib
+opencv-python-headless
+twilio
