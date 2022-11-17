@@ -169,7 +169,7 @@ st.markdown("<h1 style ='color:black; text_align:center;font-family:times new ro
 name=st.text_input("Please enter your name:")
 phoneno=st.text_input("Please enter your phone no with prefix code (ex:+91):")
 account_sid = "ACcebaf899ac73b0c205273410c2734d6b"
-auth_token = "a8d7f33ada31dc69507fc86b724d47a3"
+auth_token = "8b78d6dfc59e465cb7f2049f283d043f"
 client = Client(account_sid, auth_token)
 
 with st.expander("Image Based"):
